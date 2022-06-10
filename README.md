@@ -8,5 +8,5 @@
 |Brevundimonas goettingensis|43254|418554|
 |Brevundimonas nasdae|52189|508590|
 
-#### График распределения Z-ДНК по геному
+### График распределения Z-ДНК по геному
 ![](https://github.com/kolbunovaa/images/blob/main/z-dna.png)
