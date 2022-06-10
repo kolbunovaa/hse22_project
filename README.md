@@ -7,3 +7,5 @@
 |Brevundimonas pondensis|47333|460582|
 |Brevundimonas goettingensis|43254|418554|
 |Brevundimonas nasdae|52189|508590|
+
+![](https://github.com/kolbunovaa/images/blob/main/z-dna.png)
