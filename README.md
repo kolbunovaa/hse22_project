@@ -13,13 +13,16 @@
 ![](https://github.com/kolbunovaa/images/blob/main/z-dna.png)
 
 
-![image](https://user-images.githubusercontent.com/93188451/173194248-1da94e93-d49f-409c-88b4-9cf7680818bd.png) 
+![image](https://user-images.githubusercontent.com/93188451/173194274-b39b2191-8fc8-43ac-9dd0-8a9304745556.png) ![image](https://user-images.githubusercontent.com/93188451/173194281-5887625d-3f2a-4168-964b-3f01cbd5348d.png)
 
-![image](https://user-images.githubusercontent.com/93188451/173193560-ed4133db-123a-4ab5-80e1-99a2cc1eb2db.png) ![image](https://user-images.githubusercontent.com/93188451/173194195-ada1a28b-17c3-4852-8f1c-1ea7cf9e4532.png)
+![image](https://user-images.githubusercontent.com/93188451/173194291-021846a5-0083-4408-ab5a-f8dcd8cdecf7.png) ![image](https://user-images.githubusercontent.com/93188451/173194302-859caa73-3a11-4f29-b4f9-c1b14dcd35b0.png)
 
-![image](https://user-images.githubusercontent.com/93188451/173194206-c10a77cc-0d2b-4175-9ae9-5bd4f0d39add.png) ![image](https://user-images.githubusercontent.com/93188451/173194214-82bdc842-1c22-4138-a094-5e17d8c0c79c.png)
+![image](https://user-images.githubusercontent.com/93188451/173194314-bc817dd1-b4ca-4db9-9a0c-bd9528ce4fd6.png)
 
-![image](https://user-images.githubusercontent.com/93188451/173194218-960e14a4-e9cf-4fef-97a6-40248e48a537.png)
+
+![image](https://user-images.githubusercontent.com/93188451/173194327-25f662d8-ae30-4503-bd8a-0d4cf7611778.png)
+
+
 
 
 
