@@ -20,3 +20,6 @@
 
 ### График распределения Z-ДНК по геному
 ![](https://github.com/kolbunovaa/images/blob/main/z-dna.png)
+
+![image](https://user-images.githubusercontent.com/93188451/173193560-ed4133db-123a-4ab5-80e1-99a2cc1eb2db.png)
+
