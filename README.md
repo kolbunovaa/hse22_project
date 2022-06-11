@@ -8,13 +8,10 @@
 |Brevundimonas goettingensis|3984955 |3881(%) |43254|418554|
 |Brevundimonas nasdae|3747438 (хромосома), 76784 (плазмида), в сумме 3824222|3708(%) | 52189|508590|
 
-![image](https://user-images.githubusercontent.com/93188451/173194181-c1164fc7-4afa-46d8-85ba-56f7ad7b3fe1.png) 
-
-
-
 
 ### График распределения Z-ДНК по геному
 ![](https://github.com/kolbunovaa/images/blob/main/z-dna.png)
+
 
 ![image](https://user-images.githubusercontent.com/93188451/173193560-ed4133db-123a-4ab5-80e1-99a2cc1eb2db.png) ![image](https://user-images.githubusercontent.com/93188451/173194195-ada1a28b-17c3-4852-8f1c-1ea7cf9e4532.png)
 
