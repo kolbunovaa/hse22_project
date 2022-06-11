@@ -14,7 +14,10 @@
 
 |||
 | --- | --- |
-|![image](https://user-images.githubusercontent.com/93188451/173193201-1d86c141-4dd6-4fb7-8167-f0b15b7fd42a.png)|![image](https://user-images.githubusercontent.com/93188451/173193204-3a027d51-7a93-47d4-b662-0eb54541d68c.png)|
+|![image](https://user-images.githubusercontent.com/93188451/173193201-1d86c141-4dd6-4fb7-8167-f0b15b7fd42a.png)|![image](https://user-images.githubusercontent.com/93188451/173193171-9be2806c-e96f-4e8e-ab85-57812cca91ba.png)|
+||
+| --- |
+|![image](https://user-images.githubusercontent.com/93188451/173193204-3a027d51-7a93-47d4-b662-0eb54541d68c.png)|
 
 ### График распределения Z-ДНК по геному
 ![](https://github.com/kolbunovaa/images/blob/main/z-dna.png)
