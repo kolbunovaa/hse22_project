@@ -8,18 +8,19 @@
 |Brevundimonas goettingensis|3984955 |3881(%) |43254|418554|
 |Brevundimonas nasdae|3747438 (хромосома), 76784 (плазмида), в сумме 3824222|3708(%) | 52189|508590|
 
-||||
-| --- | --- | --- |
-|![image](https://user-images.githubusercontent.com/93188451/173193155-9f42f38f-3972-4341-9896-9c893bbe50d1.png) |![image](https://user-images.githubusercontent.com/93188451/173193159-d3a7bac6-ef33-4b03-a080-6b88b75ebcd2.png)|![image](https://user-images.githubusercontent.com/93188451/173193171-9be2806c-e96f-4e8e-ab85-57812cca91ba.png)|
+![image](https://user-images.githubusercontent.com/93188451/173194181-c1164fc7-4afa-46d8-85ba-56f7ad7b3fe1.png) 
 
 
-|||
-| --- | --- |
-|![image](https://user-images.githubusercontent.com/93188451/173193201-1d86c141-4dd6-4fb7-8167-f0b15b7fd42a.png)|![image](https://user-images.githubusercontent.com/93188451/173193171-9be2806c-e96f-4e8e-ab85-57812cca91ba.png)|![image](https://user-images.githubusercontent.com/93188451/173193204-3a027d51-7a93-47d4-b662-0eb54541d68c.png)|
 
 
 ### График распределения Z-ДНК по геному
 ![](https://github.com/kolbunovaa/images/blob/main/z-dna.png)
 
-![image](https://user-images.githubusercontent.com/93188451/173193560-ed4133db-123a-4ab5-80e1-99a2cc1eb2db.png)
+![image](https://user-images.githubusercontent.com/93188451/173193560-ed4133db-123a-4ab5-80e1-99a2cc1eb2db.png) ![image](https://user-images.githubusercontent.com/93188451/173194195-ada1a28b-17c3-4852-8f1c-1ea7cf9e4532.png)
+
+![image](https://user-images.githubusercontent.com/93188451/173194206-c10a77cc-0d2b-4175-9ae9-5bd4f0d39add.png) ![image](https://user-images.githubusercontent.com/93188451/173194214-82bdc842-1c22-4138-a094-5e17d8c0c79c.png)
+
+![image](https://user-images.githubusercontent.com/93188451/173194218-960e14a4-e9cf-4fef-97a6-40248e48a537.png)
+
+
 
