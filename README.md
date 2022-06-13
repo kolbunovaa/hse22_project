@@ -12,6 +12,7 @@
 ### График распределения Z-ДНК по геному
 ![](https://github.com/kolbunovaa/images/blob/main/z-dna.png)
 
+### Графики для score для Z-ДНК
 
 ![image](https://user-images.githubusercontent.com/93188451/173194274-b39b2191-8fc8-43ac-9dd0-8a9304745556.png) ![image](https://user-images.githubusercontent.com/93188451/173194281-5887625d-3f2a-4168-964b-3f01cbd5348d.png)
 
@@ -19,7 +20,7 @@
 
 ![image](https://user-images.githubusercontent.com/93188451/173194314-bc817dd1-b4ca-4db9-9a0c-bd9528ce4fd6.png)
 
-
+### Гистограмма по кол-ву геномов в кластерах
 ![image](https://user-images.githubusercontent.com/93188451/173255719-6f4bbe03-d0ab-4246-9482-8c391a9ae244.png)
 
 
