@@ -1,5 +1,7 @@
 # hse22_project
 
+https://colab.research.google.com/drive/1Ti5W460JkwLeaISfKv5WbN89VS6_GvqW?usp=sharing
+
 ## 1.
 
 |Геном  |Кол-во хромосом (плазмид)|Длина генома|Количество генов|Общее количество участков Z-ДНК  |Общая длина участков|
