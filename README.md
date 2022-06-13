@@ -26,9 +26,24 @@
 ### Гистограмма по кол-ву геномов в кластерах
 ![image](https://user-images.githubusercontent.com/93188451/173255719-6f4bbe03-d0ab-4246-9482-8c391a9ae244.png)
 
-### Визуализация Z-ДНК
+### Визуализация Z-ДНК в кластерах
 
 ![image](https://user-images.githubusercontent.com/93188451/173354704-7d8122bf-2c6a-4b0c-90f8-ee1dc5f9e619.png)
+
+![image](https://user-images.githubusercontent.com/93188451/173354804-d57254da-782d-43d3-9ef2-f598f17b18ed.png)
+
+![image](https://user-images.githubusercontent.com/93188451/173354828-6265c043-aa07-42d3-8f49-1790b83573d1.png)
+
+![image](https://user-images.githubusercontent.com/93188451/173354860-60bf3452-bae9-4fe6-a21c-9ead0bdaac74.png)
+
+![image](https://user-images.githubusercontent.com/93188451/173354889-207f3aa1-82dd-4ee7-860a-fdd56a711b80.png)
+
+![image](https://user-images.githubusercontent.com/93188451/173354914-a887dc1f-e24e-4016-8cea-bfeff764a107.png)
+
+![image](https://user-images.githubusercontent.com/93188451/173354938-dfe6e381-f7e3-448e-a94a-10f6b91eb3e0.png)
+
+![image](https://user-images.githubusercontent.com/93188451/173354967-bb631af2-d4cc-439e-9710-a2709374f387.png)
+
 
 
 
